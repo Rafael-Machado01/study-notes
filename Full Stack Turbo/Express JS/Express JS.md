@@ -1,0 +1,1 @@
+Framework - balenaeeatcher que usamos para fazer pendrive bootavel de linux usa ele.
